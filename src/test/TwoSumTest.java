@@ -1,8 +1,7 @@
 package test;
 
-import TwoSum.TwoSum;
+import Challenges.TwoSum.TwoSum;
 
-import jdk.jfr.Name;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;

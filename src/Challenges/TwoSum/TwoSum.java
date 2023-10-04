@@ -1,4 +1,4 @@
-package TwoSum;
+package Challenges.TwoSum;
 
 import java.util.HashMap;
 
